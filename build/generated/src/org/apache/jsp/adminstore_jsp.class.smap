@@ -1,0 +1,16 @@
+SMAP
+adminstore_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminstore.jsp
+adminstore.jsp
++ 1 logo.html
+logo.html
+*L
+1,15:51
+1#1,5:66
+15#0,2:71
+17,14:74
+30,5:88
+*E
